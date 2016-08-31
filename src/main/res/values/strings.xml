@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZBarScanRotate</string>
+    <string name="msg_default_status">请将二维码置于屏幕中间  </string>
+</resources>
